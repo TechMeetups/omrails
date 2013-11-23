@@ -1,3 +1,4 @@
 # Test Application learining Rails 
 
-This is a sample application
+This is a sample application using Ruby on Rails 
+Updating this doc to see Git Committ 
